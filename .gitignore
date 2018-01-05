@@ -1,0 +1,12 @@
+# Just .m source files #
+
+*
+
+!.gitignore
+!README.md
+
+!*/
+
+!*.m
+
+*lib
